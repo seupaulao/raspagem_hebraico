@@ -1,2 +1,3 @@
-# raspagem_hebraico
-raspagem de dados do hebraico 
+## Objetivo
+
+raspar dados de 'bibliahub' para hebraico - strong numbers
